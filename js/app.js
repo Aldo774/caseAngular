@@ -1,0 +1,1 @@
+angular.module("caseAngular", ["ngRoute"]);
